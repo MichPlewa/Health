@@ -1,0 +1,114 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?n2vi0t');
+  src:  url('fonts/icomoon.eot?n2vi0t#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?n2vi0t') format('truetype'),
+    url('fonts/icomoon.woff?n2vi0t') format('woff'),
+    url('fonts/icomoon.svg?n2vi0t#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Vector-76:before {
+  content: "\e901";
+}
+.icon-Filled:before {
+  content: "\e902";
+  color: #01340e;
+}
+.icon-Lined3:before {
+  content: "\e903";
+  color: #92a09f;
+}
+.icon-Lined2:before {
+  content: "\e904";
+}
+.icon-Lined:before {
+  content: "\e905";
+}
+.icon-Polygon-1-2:before {
+  content: "\e906";
+  color: #d5c943;
+}
+.icon-Subtract-6:before {
+  content: "\e907";
+  color: #fda901;
+}
+.icon-Subtract-7:before {
+  content: "\e908";
+  color: #f2efdc;
+}
+.icon-Subtract-5:before {
+  content: "\e909";
+  color: #f2efdc;
+}
+.icon-Polygon-1:before {
+  content: "\e90a";
+  color: #8fbd12;
+}
+.icon-Subtract-2:before {
+  content: "\e90b";
+  color: #e6efcf;
+}
+.icon-Subtract-3:before {
+  content: "\e90c";
+  color: #e6efcf;
+}
+.icon-Subtract-1:before {
+  content: "\e90d";
+  color: #8fbd12;
+}
+.icon-Subtract-4:before {
+  content: "\e90e";
+  color: #e6efcf;
+}
+.icon-Subtract:before {
+  content: "\e90f";
+  color: #e6efcf;
+}
+.icon-ic_User:before {
+  content: "\e910";
+}
+.icon-path16 .path1:before {
+  content: "\e911";
+  color: rgb(143, 189, 18);
+}
+.icon-path16 .path2:before {
+  content: "\e912";
+  margin-left: -0.7138671875em;
+  color: rgb(0, 0, 0);
+  opacity: 0.25;
+}
+.icon-path14 .path1:before {
+  content: "\e913";
+  color: rgb(0, 0, 0);
+}
+.icon-path14 .path2:before {
+  content: "\e914";
+  margin-left: -0.416015625em;
+  color: rgb(0, 0, 0);
+  opacity: 0.25;
+}
+.icon-Polygon-1-1:before {
+  content: "\e915";
+  color: #fda901;
+}
+.icon-iconShape:before {
+  content: "\e900";
+}
